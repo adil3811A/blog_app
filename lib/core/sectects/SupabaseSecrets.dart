@@ -1,0 +1,12 @@
+const url = 'https://kpgkrzjqaqmnypqcxwrn.supabase.co';
+
+const anon_key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwZ2tyempxYXFtbnlwcWN4d3JuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE3ODExMjEsImV4cCI6MjA2NzM1NzEyMX0.Y0iTr7VX4PLVpqiJMqRTNRor2O2i91UIJhjOiPU647Q';
+
+
+class SupabaseSecrets{
+ static const url = 'https://kpgkrzjqaqmnypqcxwrn.supabase.co';
+
+  static const anon_key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwZ2tyempxYXFtbnlwcWN4d3JuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE3ODExMjEsImV4cCI6MjA2NzM1NzEyMX0.Y0iTr7VX4PLVpqiJMqRTNRor2O2i91UIJhjOiPU647Q';
+
+
+}
